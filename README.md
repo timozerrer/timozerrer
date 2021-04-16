@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @timozerrer
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Timo Zerrer
+- 👀 I’m interested in applying Machine Learning to the real world
+<!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+- 📫 Lets connect on https://www.linkedin.com/in/timo-zerrer/
 
 <!---
 timozerrer/timozerrer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
